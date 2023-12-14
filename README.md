@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Araya Lemma</h1>
 <h3 align="center">Honors Computer Science and Mathematics @ MNSU</h3>
 
-- 🔭 I’m currently working on many other smaller side projects on my bucket list. Like a personal portfolio site I made this summer. [Portfolio](https://arayaeyob.github.io/arayacap100.github.io/)
+- 🔭 I’m currently working on many other smaller side projects on my bucket list. Like a personal portfolio site I made this summer. [Portfolio](https://arayaeyob.github.io/PortfolioWebsite/)
 
 - 👯 I’m looking to Building a Swift iOS mobile app that helps people stop forgetting personal belongings. **on Building a Swift iOS mobile app that helps students lives easier.**
 
