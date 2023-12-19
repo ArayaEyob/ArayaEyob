@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to Building a Swift iOS mobile app that helps people stop forgetting personal belongings. **on Building a Swift iOS mobile app that helps students lives easier.**
 
-- 💬 Ask me about me about startups, hackathons, investing, CTFs, competitive coding, puzzles, ping pong, photography, and blogging **about startups, hackathons, investing, CTFs, competitive coding, puzzles, ping pong, photography, and blogging**
+- 💬 Ask me **about startups, hackathons, investing, CTFs, Coding,, photography, and blogging**
 
 - 📫 How to reach me **araya.lemma@mnsu.edu**
 
